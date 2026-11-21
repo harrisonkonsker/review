@@ -1,2 +1,2 @@
 // The Google Apps Script web app that stores notes in the "Cut Review Notes" Google Sheet.
-window.REVIEW_SCRIPT = 'https://script.google.com/macros/s/AKfycbxds_DIcdnivyo7UBYgzKoZILW23iG0biHzys4xtYo1FeIwRGFFgJNmRKRKR0-YkWP2/exec';
+window.REVIEW_SCRIPT = 'https://script.google.com/macros/s/AKfycbzyu_WE9SPj_tKYo9Q7QGE4qoMGNN0CUUZuuGb6A3x8MfCjkeDlm9atySmBrcQRE5xW/exec';
